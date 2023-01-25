@@ -1,0 +1,9 @@
+body {
+    font-family: 'Averia Serif Libre', cursive;
+	font-family: 'Open Sans', sans-serif;
+    background-color: rgb(82, 199, 156);
+    max-width: 30em;
+	width: 90%;
+	margin: 1em auto;
+}
+
